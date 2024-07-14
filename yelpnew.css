@@ -864,6 +864,13 @@ form{
     min-width: 100%;
     overflow: hidden;
 }
+.nav-dwn-sub{
+    margin-left: auto;
+    margin-right: auto;
+}
+.rtxt{
+    text-wrap: nowrap;
+}
 }
 .med h2{
     margin-bottom: 0px;
@@ -890,6 +897,7 @@ form{
 }
 .col1C, .col2C, .col3C{
     padding: 20px;
+    flex: 1;
 }
 .regul{
     font-family: 'reg';
