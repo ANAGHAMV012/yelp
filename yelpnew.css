@@ -811,6 +811,10 @@ form{
 .logo-sub{
     max-width: 112px;
 }
+.nav-dwn-sub{
+    margin-left: auto;
+    margin-right: auto;
+}
 }
 @media screen and (min-width: 1144px){
 .section-sub{
@@ -863,10 +867,6 @@ form{
 .nav{
     min-width: 100%;
     overflow: hidden;
-}
-.nav-dwn-sub{
-    margin-left: auto;
-    margin-right: auto;
 }
 .rtxt{
     text-wrap: nowrap;
